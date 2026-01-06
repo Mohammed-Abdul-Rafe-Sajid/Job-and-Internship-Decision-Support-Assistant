@@ -39,17 +39,17 @@ This project follows a simple and modular Retrieval-Augmented Generation (RAG) a
 ### Architecture Diagram (Logical)
 
 User Query
-↓
+->
 FastAPI (/chat endpoint)
-↓
+->
 Embedding Model (Azure OpenAI)
-↓
+->
 Vector Similarity Search (in-memory)
-↓
+->
 Relevant Career Context
-↓
+->
 LLM (Azure OpenAI Chat Model)
-↓
+->
 Structured Career Recommendation
 
 
