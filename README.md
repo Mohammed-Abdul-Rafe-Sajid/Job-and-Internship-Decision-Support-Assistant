@@ -6,6 +6,8 @@ The system is built using Azure OpenAI via Microsoft Foundry and follows a Retri
 
 The focus of this project is not UI polish or feature breadth, but clear problem definition, correct use of AI services, and explainable decision-making. The chatbot is exposed as a REST API using FastAPI and tested via Swagger UI for simplicity and clarity.
 
+#### Video Explanation: https://drive.google.com/file/d/1zIHodZJnoBqDOzUVXlWFqcddKghc38hm/view?usp=sharing
+
 ## Problem Statement
 
 In India, students and early-career professionals often struggle to make informed decisions about jobs and internships due to limited transparency around roles, required skills, salary expectations, and long-term growth. Many career decisions are influenced by peer opinions, social media trends, or incomplete information rather than structured analysis.
